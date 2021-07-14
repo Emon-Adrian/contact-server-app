@@ -1,0 +1,13 @@
+{
+    "contacts": [
+        {
+            "id": "b470fb4c-e89f-4337-8a50-47aab0336d5a", 
+            "name": "max", 
+            "email": "max@gmail.com"
+        },
+        {
+            "id": "f6bcbafa-a4ac-43bc-ba81-4193ee89ad73", 
+            "name": "Bonnie", 
+            "email": "bonnie@gmail.com"}
+    ]
+}
